@@ -1,13 +1,14 @@
 {
-  "date": "2026-11-26",
-  "dateLabel": "11月26日（木）",
-  "updated": "2026-11-26 09:37 JST",
+  "date": "2026-11-27",
+  "dateLabel": "11月27日（金）",
+  "updated": "2026-11-27 09:40 JST",
   "events": [
     { "title": "バイト", "start": "17:00", "end": "19:00" }
   ],
   "mailSummary": [
-    "SDP+：映画『純愛上等！』Blu-ray BOX 発送完了",
-    "Apple：LINE Coin アプリ内購入の領収書"
+    "楽天証券：オルカン 682円 約定しました",
+    "Amazon：ハーバリウム リナ発送済み",
+    "Amazon：ハーバリウム リナ注文済み"
   ],
-  "mailChecked": 15
+  "mailChecked": 11
 }
